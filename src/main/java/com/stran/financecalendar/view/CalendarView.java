@@ -1,2 +1,4 @@
-package com.stran.financecalendar.view;public class CalendarView {
+package com.stran.financecalendar.view;
+
+public class CalendarView {
 }
